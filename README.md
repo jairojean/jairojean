@@ -1,10 +1,6 @@
 ## Hi there 👋
-Tecnologias
-
-Atuo como desenvolvedor backend com foco em Node.js, JavaScript e TypeScript.
-
-Estatísticas do GitHub
-<div> <a href="https://github.com/jairojean"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=radical"/> </a> </div>
+ 
+ 
 <!--
 **jairojean/jairojean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
