@@ -18,8 +18,7 @@ Sou um desenvolvedor de software apaixonado por construir soluções criativas e
 ### 📫 Como me encontrar:
 - Email: jairojean.br@gmail.com
 - LinkedIn:[https://www.linkedin.com/in/jairo-jean-7413b8191/]
-- 
-
+  
 ---
 
 Estou sempre aberto a novos desafios. Se você estiver interessado em trabalharmos juntos, sinta-se à vontade para entrar em contato!
