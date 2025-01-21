@@ -16,9 +16,8 @@ Sou um desenvolvedor de software apaixonado por construir soluções criativas e
 
 
 ### 📫 Como me encontrar:
-- Email: seuemail@exemplo.com
-- LinkedIn: [[seulinkedin](https://www.linkedin.com/in/jairo-jean-7413b8191)(/)
-- Email: [jairojean.br@gmail.com]
+- Email: jairojean.br@gmail.com
+- LinkedIn: (https://www.linkedin.com/in/jairo-jean-7413b8191)(/)
 
 ---
 
