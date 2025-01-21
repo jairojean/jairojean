@@ -1,17 +1,29 @@
-## Hi there 👋
- 
- 
-<!--
-**jairojean/jairojean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ # Olá! Bem-vindo ao meu GitHub 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou um desenvolvedor de software apaixonado por construir soluções criativas e eficientes. Estou focado em projetos de backend, com especialização em **Node.js**, **Rest** **GraphQL**, banco de dados **Relacionais** e **Não Relacionais**.
+
+### 🚀 Sobre mim:
+- 💻 Sou **desenvolvedor backend**, trabalhando principalmente com Node.js e tecnologias relacionadas.
+- 🔍 Sempre em busca de aprender e melhorar minhas habilidades, estou estudando **GraphQL** e trabalhando em projetos para aplicar esse conhecimento.
+- 🌱 Tenho interesse em explorar **novas tecnologias** e contribuir nos projetos que atuar.
+- 📚 Em constante aprendizado e buscando crescer como profissional e pessoa.
+
+### 🔧 Tecnologias e Ferramentas:
+- **Node.js** | **Express.js** | **GraphQL**
+- **MongoDB** | **PostgreSQL** | **MySQL**
+- **Git** | **GitHub** |
+
+
+### 📫 Como me encontrar:
+- Email: seuemail@exemplo.com
+- LinkedIn: [[seulinkedin](https://www.linkedin.com/in/jairo-jean-7413b8191)(/)
+- Email: [jairojean.br@gmail.com]
+
+---
+
+Estou sempre aberto a novos desafios. Se você estiver interessado em trabalharmos juntos, sinta-se à vontade para entrar em contato!
+
+🔭 **Vamos codar juntos!**
+
+ 
